@@ -5,9 +5,11 @@ APScheduler==3.6.3
 blinker==1.9.0
 cachetools==4.2.2
 certifi==2025.7.14
+cffi==2.0.0
 charset-normalizer==3.4.3
 click==8.3.0
 colorama==0.4.6
+cryptography==46.0.1
 dnspython==2.8.0
 dotenv==0.9.9
 email-validator==2.3.0
@@ -22,10 +24,13 @@ httptools==0.6.4
 httpx==0.28.1
 idna==3.10
 Jinja2==3.1.6
+jwt==1.4.0
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
 mdurl==0.1.2
+passlib==1.7.4
 psycopg2-binary==2.9.10
+pycparser==2.23
 pydantic==2.11.9
 pydantic-settings==2.11.0
 pydantic_core==2.33.2

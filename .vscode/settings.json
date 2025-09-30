@@ -1,0 +1,14 @@
+{
+    "sqltools.connection": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 2009,
+            "driver": "PostgreSQL",
+            "name": "test",
+            "database": "rent_car_db",
+            "username": "postgres"
+        }
+    ]
+}

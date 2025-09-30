@@ -1,4 +1,5 @@
 from typing import Annotated
+
 from fastapi.routing import APIRouter
 from fastapi import Depends
 from sqlalchemy.orm import Session
